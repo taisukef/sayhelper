@@ -1,0 +1,3 @@
+Hi, I'm Taisuke Fukuno, the founder of jig.jp, a Open Data Evangelist appointed by the Japanese Gorvenment.
+We're providing softwares for the mobile and the $15 personal computer to learn basic programming, IchigoJam.
+In Sabae city, all 9 years old kids use IchigoJam in the school, and some grew up as the engineer.
