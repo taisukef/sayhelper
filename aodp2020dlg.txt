@@ -1,0 +1,86 @@
+47% cities stared Open Data in Japan.
+
+Open Data Next in Japan
+
+Hi, I'm Taisuke Fukuno, the founder of jig.jp, a software company.
+I live in Sabae city, Fukui prefecture, Japan.
+
+And I'm a Open Data Evangelist appointed by the Japanese Gorvenment.
+
+We're providing softwares and the $15 personal computer to learn basic programming, IchigoJam.
+
+In Sabae city, all 9 years old kids use IchigoJam in the school, and some grew up as engineers.
+
+I created jig browser app, and participated W3C in 2010.
+
+I met Sir Tim and Open Data there.
+
+I felt Open Data is a infrastructure representing the 21st century.
+
+If Open Data delays, IT business delays.
+
+I proposed to the mayor of Sabae city to start Open Data.
+He quickly decided it.
+Japan's first Open Data city started in January 2012 from Sabae city.
+
+Japan enters the DX season. DX means the digital transformation in Japan.
+We try to transform entire pretty good analogue processes to on-line.
+It's a big project. Useful Open Data is important as infrastructure.
+Code for Sabae started DXGOV project as civic tech.
+
+I created 3 apps under COVOD-19 situation.
+
+1. "globalsafe" is the gathering information app from Japanese Embassies.
+The data source is XML Open Data by Ministry of Foreign Affairs.
+
+2. VS COVID-19 is the app finding the support information by private sectors.
+Ministry of Economy, Trade and Industry gathering that information and publish as Open Data.
+We created app in Social Hack Day by Code for Japan as civic tech.
+
+3. Dashboard against COVID-19 Japan started from civic tech also.
+I wanted to see local medical situation about COVID-19.
+
+I gathered and organized data from 47 prefectures and visualized that as an app.
+
+A mount of total access is exceed 5 million. Even now 5,000 access per day.
+
+This app was introduced on white paper from Japanese Ministry of Internal Affairs and Communications.
+
+It was not on easy way.
+Each prefectures provide them data not under standards, PDF, Excel, HTML, CSV and just image!
+I made 46 data transformation programs in JavaScript.
+And I'm checking that transformation is collect or not everyday.
+All programs are open-source on GitHub.
+
+I hoped all prefectures will provide standard CSV Open Data.
+
+Finally, Ministry of Health, Labor and Welfare started CSV Open Data with some data.
+
+Ministry of Economy, Trade and Industry started the open-source project to share standards on GitHub.
+
+This is my personal project "1 day 1 creation" since 2012.
+
+I made Taiwan Mask app as one of that.
+It's very easy to create because data is CSV Open Data!
+
+Open Data is not only government sectors.
+I try to push to pull Open Data from private bank companies.
+For example the finding ATM app with Open Data will help us not only Japanese.
+And if this app mashed-up with historical story Open Data makes our trip richer!
+
+IchigoJam IoT meets Open Data Bus project is spreading in Japan.
+The communication fee of each device is just $1 per month!
+
+Our another global project, Virufy aims to detect COVID-19 by cough sound data.
+A leader Mr. Amil Khanzada lived in Japan.
+
+Our global team has 2 Japanese.
+
+Virufy provides cough sound Open Data for anyone who interested.
+
+We want to connect Open Data in Asia.
+Let's make CSV Open Data and collaborate to create delicious apps in Hackathon or on communities!
+Please join our Code for Japan Slack!
+Thank you.
+
+Appendix, History of Open Data Japan
